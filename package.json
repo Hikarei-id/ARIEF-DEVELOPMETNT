@@ -2,9 +2,9 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "arief.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node arief.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
